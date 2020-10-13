@@ -12,7 +12,7 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 09/24/2020
 ms.locfileid: "91174181"
 ---
-# <a name="use-attributes-in-c"></a>在 C\# 中使用属性
+# <a name="use-attributes-in-c"></a>在 C\# 中使用特性
 
 使用特性，可以声明的方式将信息与代码相关联。 特性还可以提供能够应用于各种目标的可重用元素。
 
